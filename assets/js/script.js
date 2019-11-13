@@ -1,1 +1,3 @@
-$(".hide").hide();
+$(function(){
+  $('.hide').hide();
+});
